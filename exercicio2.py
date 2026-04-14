@@ -22,7 +22,7 @@ class TarefaRepository: #Cria uma classe para gerenciar tarefas tipo um mini ban
         return pendentes
 
 
-# 🧪 Testando
+# Testando
 
 repo = TarefaRepository() #Cria o repositório
 

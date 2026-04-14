@@ -16,7 +16,7 @@ class ContadorVisitas:
     def total(self):
         return self._contador
 
-# 🧪 Testando em dois "lugares diferentes"
+#Testando em dois "lugares diferentes"
 
 # Lugar 1
 contador1 = ContadorVisitas.get()
